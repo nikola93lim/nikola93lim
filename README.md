@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikola!
 - 👀 I’m interested in Unity development, whether it's game development or AR and VR apps.
-- 🌱 I’m currently learning Unity3d and C#.
+- 🌱 Been a professional Unity game developer for over a year now.
 
 <!---
 nikola93lim/nikola93lim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
